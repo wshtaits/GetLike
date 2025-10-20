@@ -1,0 +1,21 @@
+{
+  "name": "PhoneNumberKitBridge",
+  "version": "1.0",
+  "summary": "PhoneNumberKit bridge",
+  "homepage": "https://getlike.space",
+  "license": "",
+  "authors": "",
+  "source": {
+    "path": "."
+  },
+  "static_framework": true,
+  "platforms": {
+    "ios": "16.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "PhoneNumberKitBridge/**/*",
+  "dependencies": {
+    "PhoneNumberKit": []
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,115 @@
+<resources>
+
+    <string name="splash_title">Become popular!</string>
+    <string name="splash_icon">App icon</string>
+    <string-array name="splash_subtitle">
+        <item>Collect </item>
+        <item>1 000 000</item>
+        <item> likes</item>
+    </string-array>
+
+    <string name="terms_title">Terms &amp; Conditions</string>
+
+    <string name="login_enter_phone_number_label">Enter phone number</string>
+    <string-array name="login_terms_label">
+        <item>By clicking on the button, you agree with rules for </item>
+        <item>processing</item>
+        <item> personal data</item>
+    </string-array>
+    <string name="login_next_button">Next</string>
+    <string name="login_enter_code_label">Enter code\nconfirmation from SMS</string>
+    <string name="login_send_sms_label">Send SMS again</string>
+    <string name="login_send_sms_seconds_label"> (%1$ds)</string>
+    <string name="login_incorrect_code">Incorrect SMS code entered</string>
+
+    <string name="profile_editor_avatar">Avatar</string>
+    <string name="profile_editor_name">Your name</string>
+    <string name="profile_editor_done_button">Done</string>
+    <string name="profile_editor_open_camera">Open camera</string>
+    <string name="profile_editor_open_gallery">Open gallery</string>
+
+    <string name="main_profile">Profile</string>
+    <string name="main_chats">Chats</string>
+    <string name="main_contacts">Contacts</string>
+    <string name="main_message_exit">Tap again to exit the app</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_edit_button">Edit</string>
+    <string name="profile_description_logout">Logout</string>
+
+    <string name="chats_title">Chats</string>
+    <string name="chats_empty_label">You have no chats!</string>
+    <string name="chats_empty_hint">Look for friends here</string>
+    <string name="chats_description_likes">Likes</string>
+    <string name="chats_description_pointer">Chats pointer</string>
+
+    <string name="contacts_empty_button">Add friends</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="contacts_like_button">Like</string>
+    <string name="contacts_invite_button">Invite</string>
+    <string name="contacts_not_in_app_hint">Not in the app</string>
+    <string name="contacts_empty_label">Become popular! </string>
+    <string-array name="contacts_empty_hint">
+        <item>Friends help you collect\n</item>
+        <item>1\u00A0000\u00A0000</item>
+        <item> likes</item>
+    </string-array>
+    <string name="contacts_description_import_contacts">Import contacts</string>
+    <string name="contacts_description_search_contact">Search contact</string>
+
+    <string name="chat_not_contact_label">Not a contact</string>
+    <string name="chat_add_button">Add</string>
+    <string name="chat_like_description">Like</string>
+
+    <string name="search_contact_title">Search contact</string>
+    <string name="search_contact_enter_phone_label">Enter phone number</string>
+    <string name="search_contact_not_exist_label">This user does not exist, you can invite him</string>
+    <string name="search_contact_search_button">Search</string>
+    <string name="search_contact_invite_button">Invite</string>
+
+    <string name="invite_whats_app">WhatsApp</string>
+    <string name="invite_telegram">Telegram</string>
+    <string name="invite_facebook">Facebook</string>
+    <string name="invite_instagram">Instagram</string>
+    <string name="invite_sms">Sms</string>
+    <string name="invite_more">More</string>
+    <string name="invite_copy_link_label">Copy invite link</string>
+    <string name="invite_message">Help me to collect 1 000 000 likes!</string>
+    <string name="invite_description_copy">Copy</string>
+
+    <string name="default_avatar_image_description">Avatar</string>
+
+    <string name="total_likes_row_sent">Sent</string>
+    <string name="total_likes_row_received">Received</string>
+
+    <string name="like_button_swipe">Swipe to</string>
+    <string name="like_button_cancel">Cancel</string>
+    <string name="like_button_max">Max</string>
+    <string name="like_button_like_description">Like</string>
+
+    <string name="profile_column_description_share">Share</string>
+    <string name="profile_column_description_add_contact">Add contact</string>
+    <string name="profile_column_description_chat">Chat</string>
+
+    <string name="month_january_short">Jan</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_may_short">May</string>
+    <string name="month_june_short">Jun</string>
+    <string name="month_july_short">Jul</string>
+    <string name="month_august_short">Aug</string>
+    <string name="month_september_short">Sep</string>
+    <string name="month_october_short">Oct</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_december_short">Dec</string>
+
+    <string name="day_yesterday">Yesterday</string>
+
+    <string name="notification_title_new_achievement">New achievement!</string>
+
+    <string name="common_no_network">No network</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_description_back">Back</string>
+
+</resources>

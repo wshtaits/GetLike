@@ -1,0 +1,3 @@
+package space.getlike.util_app_shortcuts
+
+expect class AppShortcutItem

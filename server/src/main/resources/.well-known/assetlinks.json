@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.getlike",
+      "sha256_cert_fingerprints": [
+        "55:22:24:E9:BC:34:8C:88:AA:75:5C:5C:E4:35:A8:F4:E1:DB:58:EE:CF:94:98:31:7D:AB:0F:8A:D2:50:9B:BF"
+      ]
+    }
+  }
+]

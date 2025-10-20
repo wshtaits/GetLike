@@ -1,0 +1,28 @@
+PODS:
+  - PhoneNumberKit (4.1.4):
+    - PhoneNumberKit/PhoneNumberKitCore (= 4.1.4)
+    - PhoneNumberKit/UIKit (= 4.1.4)
+  - PhoneNumberKit/PhoneNumberKitCore (4.1.4)
+  - PhoneNumberKit/UIKit (4.1.4):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - PhoneNumberKitBridge (1.0):
+    - PhoneNumberKit
+
+DEPENDENCIES:
+  - PhoneNumberKitBridge (from `../util-phone-number/src/iosMain/swift/PhoneNumberKitBridge`)
+
+SPEC REPOS:
+  trunk:
+    - PhoneNumberKit
+
+EXTERNAL SOURCES:
+  PhoneNumberKitBridge:
+    :path: "../util-phone-number/src/iosMain/swift/PhoneNumberKitBridge"
+
+SPEC CHECKSUMS:
+  PhoneNumberKit: b7c01ac804bf40f4518dfb8e00b038caf787a9c2
+  PhoneNumberKitBridge: ff1014e1c76e56ef2eb6de84402d8d65f49c9e3d
+
+PODFILE CHECKSUM: cc03078cabfaffdab16d217706001636988bd21e
+
+COCOAPODS: 1.16.2

@@ -1,0 +1,8 @@
+source 'https://cdn.cocoapods.org'
+
+target 'iosApp' do
+  use_frameworks!
+  platform :ios, '16.0'
+
+  pod 'PhoneNumberKitBridge', :path => '../util-phone-number/src/iosMain/swift/PhoneNumberKitBridge'
+end

@@ -1,0 +1,3 @@
+package space.getlike.client_base.presentation.broadcasts
+
+object ShowProfileBroadcast

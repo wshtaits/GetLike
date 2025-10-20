@@ -1,0 +1,6 @@
+framework module PhoneNumberKitBridge {
+  umbrella header "PhoneNumberKitBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}
